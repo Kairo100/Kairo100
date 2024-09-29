@@ -1,12 +1,30 @@
-- 👋 Hi, I’m Umulkhair Abdinaser (kairo naser)
-- 👀I'm a junior Computer Science major with a strong passion for software development and web design.
--  😊My expertise spans across multiple programming languages and frameworks,
--  including Java, C#, HTML, CSS,JavaScript, React,Bootstrap, Python, Django, Tailwind
--   With over two years of experience in front-end development, I specialize in creating visually appealing and user-friendly websites.
--   SkillsLanguages: Java, C#, HTML, CSS, JavaScriptFrameworks,React,Bootstrap, Python, Django, Tailwind.
--    other relevant frameworksWeb Design: Proficient in Figma
+💫 About Me:
 
-<!---
-Kairo100/Kairo100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.😊😊
---->
+Here’s an updated version of your introduction, reflecting your skills and portfolio:
+
+👋 Hi, I’m Umulkhair Abdinaser (Kairo Naser)
+
+👀 I’m a junior Computer Science major with a deep passion for software development, web design, and user experience.
+
+💡 With over two years of front-end development experience, I specialize in crafting visually engaging and highly user-friendly websites.
+
+💻 My expertise spans a wide range of programming languages and frameworks, including:
+
+Languages: Java, C#, HTML, CSS, JavaScript, Python
+Frameworks: React, Bootstrap, Django, Tailwind
+Tools: Figma (for UI/UX design)
+🔗 You can check out my portfolio at kaironaser.com, where I showcase my projects in web development and design.
+
+🌐 Socials:
+Facebook Instagram LinkedIn
+
+💻 Tech Stack:
+C++ C# CSS3 PHP Java HTML5 JavaScript Netlify Django jQuery React Bootstrap JWT TailwindCSS Apache MySQL SQLite Adobe Photoshop Canva Figma GitHub
+
+📊 GitHub Stats:
+
+
+
+
+
+
